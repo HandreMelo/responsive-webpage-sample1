@@ -1,4 +1,4 @@
-<h1> Página Web Responsiva <h1>
+<h1> Página Web Responsiva </h1>
 <p>Projeto solo da criação de uma página web responsiva com versão mobile. </p>
 <p>Os objetivos do projeto eram:
   <ul>
@@ -9,7 +9,7 @@
     <li>O conteúdo final deve ser funcional na última e penúltima versão dos principais navegadores.
   </ul>
   </p>
-  <h2>Versão Desktop</h2>
-<img src="https://github.com/HandreMelo/responsive-webpage-sample1/prints/desktop.jpg" alt="Print da página versão Desktop></img>
+<h2>Versão Desktop</h2>
+<img src="https://github.com/HandreMelo/responsive-webpage-sample1/prints/desktop.jpg" alt="Print da página versão Desktop"></img>
 <h2>Versão Mobile</h2>
-<img src="https://github.com/HandreMelo/responsive-webpage-sample1/prints/mobile.jpg" alt="Print da página versão Mobile></img>
+<img src="https://github.com/HandreMelo/responsive-webpage-sample1/prints/mobile.jpg" alt="Print da página versão Mobile"></img>
