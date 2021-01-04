@@ -9,7 +9,11 @@
     <li>O conteúdo final deve ser funcional na última e penúltima versão dos principais navegadores.
   </ul>
   </p>
+ <p>
 <h2>Versão Desktop</h2>
-<img src="https://github.com/HandreMelo/responsive-webpage-sample1/prints/desktop.jpg" alt="Print da página versão Desktop"></img>
+<img src="https://github.com/HandreMelo/responsive-webpage-sample1/blob/main/other/desktop.jpg?raw=true" alt="Print da página versão Desktop"></img>
+</p>
+<p>
 <h2>Versão Mobile</h2>
-<img src="https://github.com/HandreMelo/responsive-webpage-sample1/prints/mobile.jpg" alt="Print da página versão Mobile"></img>
+<img src="https://github.com/HandreMelo/responsive-webpage-sample1/blob/main/other/mobile.jpg?raw=true" alt="Print da página versão Mobile"></img>
+</p>
