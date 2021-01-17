@@ -10,6 +10,7 @@
   </ul>
   </p>
  <p>
+<h2><a href="https://handremelo.github.io/responsive-webpage-sample1/">Amostra: https://handremelo.github.io/responsive-webpage-sample1/</a><h2>
 <h2>Versão Desktop</h2>
 <img src="https://github.com/HandreMelo/responsive-webpage-sample1/blob/main/other/desktop.jpg?raw=true" alt="Print da página versão Desktop"></img>
 </p>
